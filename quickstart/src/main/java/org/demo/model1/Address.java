@@ -23,4 +23,6 @@ public class Address {
  String addressLine1;
  String addressLine2;
  long pincode;
+ int di;
+ double ggg;
 }
